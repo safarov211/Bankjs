@@ -1,0 +1,24 @@
+
+.main-div{
+    margin: 100px auto;
+    border: 2px solid rgb(138, 97, 97);
+    box-shadow: 0 0 10px rgb(172, 41, 41);
+    width: 100%;
+    padding: 100px;
+}
+
+.input{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid rgb(128, 0, 70);
+    border-radius: 10px;
+}
+
+.Inplabel{
+    font-size: 20px;
+    
+}
+.btn-primary{
+    width: 30%;
+    font-size: 18px;
+}   
